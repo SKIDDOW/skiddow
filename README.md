@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👋 I’m SKIDDOW
+- 👀 I’m interested in almost every techs  
+- 🌱 I want to make things simple
+- 📫 How to reach me ...
+ -- skiddownet@gmail.com
+
 <!--
 **skiddow/skiddow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
